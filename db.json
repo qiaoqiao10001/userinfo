@@ -1,4 +1,16 @@
 {
-	"name": "zhangqiao",
-	"age": "12"
+	"get": [
+		{
+			"id": 1,
+			"title": "qiaoqiao",
+			"age": "22"
+		}
+	],
+	"post": [
+		{
+			"id": 1,
+			"title": "qiaoqiao",
+			"age": "22"
+		}
+	]
 }
